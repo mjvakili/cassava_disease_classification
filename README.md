@@ -1,5 +1,4 @@
-# cassava_desease_classification
-=================================
+# Cassava desease classification
 
 Cassava plant is an important source of food in the world. 
 Unfortunately, this plant is vulnerable to a number of viruses.
