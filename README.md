@@ -1,8 +1,7 @@
 # Cassava desease classification
 
 Cassava plant is an important source of food in the world. 
-Unfortunately, this plant is vulnerable to a number of viruses.
+This plant is vulnerable to a number of viruses.
 
-In this project, we fine tune a pretrained VGGNet trained on ImageNet 
-to identify whether a given plant is healthy or not, and if not, which 
-kind of viral infection it has.
+In this project, we fine tune the pretrained Inception V3 deep CNN trained on ImageNet 
+to identify the type of disease that a given plant is infected with. 
