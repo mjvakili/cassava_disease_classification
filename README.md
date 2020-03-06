@@ -1,4 +1,4 @@
-# Cassava desease classification
+# Cassava disease classification
 
 Cassava plant is an important source of food in the world. 
 This plant is vulnerable to a number of viruses.
